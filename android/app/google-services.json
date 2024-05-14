@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831051865110",
+    "project_id": "catfish-d47dd",
+    "storage_bucket": "catfish-d47dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831051865110:android:92424d7df4b4bf783fa937",
+        "android_client_info": {
+          "package_name": "com.kanacare.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwpdoqya7GScKnXzx-TdhhTmRsTu0nDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831051865110:android:3289458076f034d53fa937",
+        "android_client_info": {
+          "package_name": "com.kanacare.workworkwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwpdoqya7GScKnXzx-TdhhTmRsTu0nDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
